@@ -3,13 +3,14 @@
 //  command line
 //
 //  Created by phong on 09/02/2023.
-//
+//ok
+
 
 import Foundation
 
 print("Hello, World!")
 
-
+var ok = ""
 var greeting = "Hello, playground"
 
 func solveQuadraticEquation(a: Double, b: Double, c: Double) -> (Double?, Double?) {
